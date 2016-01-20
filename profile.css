@@ -2,11 +2,54 @@
       display: block;
     margin-left: auto;
     margin-right: auto
-
+    
  }
  
  body {
-  background-image: url("http://www.hdfreepics.com/wp-content/uploads/2014/08/Black-Wolf-Wallpaper-7.jpg")
+  background-image: url("http://www.hdwallpaperscool.com/wp-content/uploads/2016/01/dark-souls-3-wolf-best-desktop-cool-wallpaper-wide-free.jpg")
  
    
  }
+ 
+ h1 {
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: #273033;
+    transition: 
+    }
+    p {
+     text-align: center;
+    }
+    
+    .I {
+        background-image: url("http://vignette1.wikia.nocookie.net/factfinder/images/7/7a/Moon-1-.png/revision/latest?cb=20130921081247");
+        background-repeat: no-repeat;
+        background-size: 100%
+        
+        
+      }
+      .I {
+    width: 100px;
+    height: 100px;
+    background: imgage;
+    float: left;
+    position: relative;
+    -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+    animation: mymove 5s infinite;
+}
+
+/* Chrome, Safari, Opera */
+@-webkit-keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+}
+
+@keyframes mymove {
+    from {left: 0px;}
+    to {left: 200px;}
+}
